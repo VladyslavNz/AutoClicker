@@ -1,2 +1,2 @@
 # AutoClicker
-By QuesyWe
+By Vladyslav
